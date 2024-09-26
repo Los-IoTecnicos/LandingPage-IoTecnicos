@@ -1,5 +1,5 @@
 # Landing_Page
-Proyecto en el cual se desarrolla el landing page de EstuReview
+Proyecto en el cual se desarrolla el landing page de FrostChef
 
 Autores:
 
